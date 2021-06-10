@@ -35,8 +35,12 @@ This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploi
 
 ## Overcomming language barriers
 
-It's only an example. It is not possible to doing in COLAB.
+Only an example about how to extract stylometric relations between novels from diverse languages. Unfortunatelly  it is not possible doing it in COLAB.
 
-Extracting stylometric relations between novels from diverse languages:
+Inter-lingual representation based on WordNet synsets. Stylometric relations extracted with R package "Stylo".
 
-Results: images.
+Some results:
+
+- [ELTeC SPA, ENG and FRA (all synsets).](https://raw.githubusercontent.com/bncolorado/Processing-ELTeC-corpus/8a92da48550e8d23daea81120b82234bba9016dc/images/Exp1_ELTeCSpaEngFra_synset.svg)
+- [ELTeC SPA, ENG and FRA (only verb synsets).](https://raw.githubusercontent.com/bncolorado/Processing-ELTeC-corpus/8a92da48550e8d23daea81120b82234bba9016dc/images/Exp2_ELTeCSpaEngFra_SoloVerbos.svg)
+
