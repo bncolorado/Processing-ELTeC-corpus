@@ -24,10 +24,10 @@ This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploi
 
 ## Extracting information from XML
 
-Notebooks:
+1. [Extracting author and gender from one collection (ELTeC-SPA)](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_ExtractAuthorTitleGender.ipynb)
+2. [Extractiing author and gender from two (or more) collection(ELTeC-SPA and ELTeC-ENG)](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_ExtractAuthorGenderFromSeveralCollections.ipynb)
+3. [Extracting code switchig](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_CodeSwitching.ipynb)
 
-- Author and gender
-- Code switchig
 
 ## Applying basic NLP techniques to analyze ELTeC corpus (with SpaCy)
 
@@ -39,9 +39,4 @@ It's only an example. It is not possible to doing in COLAB.
 
 Extracting stylometric relations between novels from diverse languages:
 
-Process:
-    - WSD: represent each word with OFFSET.
-    - Apply stylo (cosene)
-    - Results: map of relations of European novels.
-    - Some relations that must be analyzed
-
+Results: images.
