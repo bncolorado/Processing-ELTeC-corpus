@@ -25,13 +25,13 @@ This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploi
 ## Extracting information from XML
 
 1. [Extracting author and gender from one collection (ELTeC-SPA)](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_ExtractAuthorTitleGender.ipynb)
-2. [Extractiing author and gender from two (or more) collection(ELTeC-SPA and ELTeC-ENG)](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_ExtractAuthorGenderFromSeveralCollections.ipynb)
+2. [Extracting author and gender from two (or more) collection (ELTeC-SPA and ELTeC-ENG)](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_ExtractAuthorGenderFromSeveralCollections.ipynb)
 3. [Extracting code switchig](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_CodeSwitching.ipynb)
 
 
 ## Applying basic NLP techniques to analyze ELTeC corpus (with SpaCy)
 
-- PoS and NER with SpaCy
+1. [Analyzing Part of Speech of a novel from ELTeC-SPA with SpaCy.](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_AnalyzingPoS.ipynb)
 
 ## Overcomming language barriers
 
