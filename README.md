@@ -13,6 +13,14 @@ This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploi
 
 ## Where is ELTeC corpus?
 
++ Development version:
+   - https://github.com/COST-ELTeC
+
++ Stable versions:
+    - Official: https://zenodo.org/communities/eltec
+    - TEIpublisher: https://teipublisher.com/exist/apps/eltec/index.html
+    - GAMS: http://glossa.uni-graz.at/context:eltec
+    - TextGRID (testing) https://dev.textgridrep.org/browse/3thgt.0
 
 ## Extracting information from XML
 
