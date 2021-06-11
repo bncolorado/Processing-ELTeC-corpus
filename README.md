@@ -4,7 +4,7 @@ Borja Navarro Colorado | University of Alicante
 
 ## Introduction
 
-This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploit [ELTeC corpus](https://www.distant-reading.net/eltec/) for literary studies with some examples. Except the last one, these examples are implemented and explained in COLAB notebooks, so you can run them in your machine. They explore the next topics:
+This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploit [ELTeC corpus](https://www.distant-reading.net/eltec/) for literary studies with some examples. Except for the last one, these examples are implemented and explained in COLAB notebooks, so you can run them in your machine. They explore the next topics:
 
 - how to open and process ELTeC corpus with Python in COLAB;
 - how to extract information annotated in XML;
