@@ -1,17 +1,17 @@
-# What can we do (and what do we need) to exploit ELTeC corpus. Some examples.
+# What can we do (and what do we need) to exploit the ELTeC corpus. Some examples.
 
 Borja Navarro Colorado | University of Alicante
 
 ## Introduction
 
-This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploit [ELTeC corpus](https://www.distant-reading.net/eltec/) for literary studies with some examples. Except for the last one, these examples are implemented and explained in COLAB notebooks, so you can run them in your machine. They explore the next topics:
+This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploit the [ELTeC corpus](https://www.distant-reading.net/eltec/) for literary studies with some examples. Except for  the last one, these examples are implemented and explained in COLAB notebooks, so you can run them in your machine. They explore the next topics:
 
-- how to open and process ELTeC corpus with Python in COLAB;
+- how to open and process the ELTeC corpus with Python in COLAB;
 - how to extract information annotated in XML;
-- how to analyze ELTeC corpus with basic NLP techniques;
+- how to analyze the ELTeC corpus with basic NLP techniques;
 - and finally a simple proposal to overcome language barriers. 
 
-## Where is ELTeC corpus?
+## Where is the ELTeC corpus?
 
 + Development version:
    - https://github.com/COST-ELTeC
@@ -29,13 +29,13 @@ This [INTELE](http://ixa2.si.ehu.eus/intele/?q=home) webinar shows how to exploi
 3. [Extracting code switchig](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_CodeSwitching.ipynb)
 
 
-## Applying basic NLP techniques to analyze ELTeC corpus (with SpaCy)
+## Applying basic NLP techniques to analyze the ELTeC corpus (with SpaCy)
 
-1. [Analyzing Part of Speech of a novel from ELTeC-SPA with SpaCy.](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_AnalyzingPoS.ipynb)
+1. [Analyzing Part of Speech of a novel from the ELTeC-SPA with SpaCy.](https://github.com/bncolorado/Processing-ELTeC-corpus/blob/main/COLAB_notebooks/ELTeC_AnalyzingPoS.ipynb)
 
-## Overcomming language barriers
+## Overcoming language barriers
 
-Only an example about how to extract stylometric relations between novels from diverse languages. Unfortunatelly  it is not possible doing it in COLAB.
+Only an example about how to extract stylometric relations between novels from several languages. Unfortunatelly  it is not possible to do it in COLAB.
 
 Inter-lingual representation based on WordNet synsets. Stylometric relations extracted with R package "Stylo".
 
